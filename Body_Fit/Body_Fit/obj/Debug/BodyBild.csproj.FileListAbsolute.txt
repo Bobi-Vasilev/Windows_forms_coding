@@ -1,9 +1,0 @@
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\bin\Debug\BodyBild.exe.config
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\bin\Debug\BodyBild.exe
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\bin\Debug\BodyBild.pdb
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\obj\Debug\BodyBild.csprojResolveAssemblyReference.cache
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\obj\Debug\BodyBild.Properties.Resources.resources
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\obj\Debug\BodyBild.csproj.GenerateResource.Cache
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\obj\Debug\BodyBild.exe
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\obj\Debug\BodyBild.pdb
-C:\Users\Bobi\Desktop\BodyBild\BodyBild\obj\Debug\BodyBild.Body_Fit_Program.resources
